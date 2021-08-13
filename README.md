@@ -9,10 +9,15 @@ Here are some ideas to get you started:
 
 
 -->
- ✨ I’m full-time interested in iOS App Development
- ✨ I’m currently learning Swift
- ✨ I also enjoy researching and reading about Mobile UI Design.
- ✨ Goals: Working as an Jr. iOS Developer
+<br />
+  I’m full-time interested in iOS App Development
+ <br />
+  I’m currently learning Swift
+ <br />
+  I also enjoy researching and reading about Mobile UI Design.
+ <br />
+  Goals: Working as an Jr. iOS Developer
+ <br />
 ### Connect with me:
 
 
