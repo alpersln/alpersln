@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   I also enjoy researching and reading about Mobile UI Design.
  <br />
   Goals: Working as an Jr. iOS Developer
- <br />
+ 
 ### Connect with me:
 
 
