@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- MEDIUM:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM:END -->
 
 ➡️ [more blog posts...](https://alpersulun.medium.com/)
 
