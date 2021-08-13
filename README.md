@@ -1,9 +1,6 @@
 ### Hi there 👋
 
- -I’m full-time interested in iOS App Development
- -I’m currently learning Swift
- -I also enjoy researching and reading about Mobile UI Design.
- -Goals: Working as an Jr. iOS Developer
+
  
 <!--
 **repladev/repladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +9,10 @@ Here are some ideas to get you started:
 
 
 -->
+ -I’m full-time interested in iOS App Development
+ -I’m currently learning Swift
+ -I also enjoy researching and reading about Mobile UI Design.
+ -Goals: Working as an Jr. iOS Developer
 ### Connect with me:
 
 
