@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - I’m full-time interested in iOS App Development
 - I’m currently learning Swift
 - I also enjoy researching and reading about Mobile UI Design.
-- Goals: Working as an Jr. iOS Developer
+- Goals: Working as a Jr. iOS Developer
  
 ### Connect with me:
 
