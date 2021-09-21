@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## About Me
 
 - I’m full-time interested in iOS App Development
-- I’m currently learning Swift
+- I’m currently learning Swift,Flutter
 - I also enjoy researching and reading about Mobile UI Design.
 - Goals: Working as a Jr. iOS Developer
  
