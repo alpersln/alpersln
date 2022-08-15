@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- I’m full-time interested in Mobile App Development
-- I’m currently learning Flutter
+- Interested in Mobile App Development
+- I'm currently developing apps with SwiftUI and Flutter.
 - I also enjoy researching and reading about Mobile UI Design.
  
 ### Connect with me:
